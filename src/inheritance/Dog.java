@@ -13,6 +13,7 @@ public class Dog extends Animal {
 	
 	public void bite() {
 		System.out.println("dog bites");
+		System.out.println("dog is an animal");
 	}
 	
 		
